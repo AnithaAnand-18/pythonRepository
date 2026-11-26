@@ -1,4 +1,4 @@
-# Write your code printbelow this line 👇
+# Brand Name Generator
 print("Welcome to the Band Name Generator")
 city_name=input("What's the name of the city you grew up in?\n")
 pet_Name=input("What's your pet's name?\n")
